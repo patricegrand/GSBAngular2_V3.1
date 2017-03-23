@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 import { Router } from '@angular/router';
 
 import { DataService} from '../services/app.service.data';
+//import {Sha1Service} from '../services/app.service.crypto';
 @Component({
   moduleId: module.id,
   selector: 'my-connexion',
